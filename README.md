@@ -1,7 +1,5 @@
-```
 Name:Abinaya A
 Reg no:212223040003
-```
 # Cryptography---19CS412-classical-techqniques
 # Caeser Cipher
 Caeser Cipher using with different key values
@@ -75,9 +73,9 @@ void main()
 }
 ```
 ## OUTPUT:
-```
-![Screenshot (94)](https://github.com/user-attachments/assets/d26133b0-1089-4db7-85b5-faa99ebb0de3)
-```
+
+![Screenshot (94)](https://github.com/user-attachments/assets/54759483-0306-4770-9512-773530dc3165)
+
 ## RESULT:
 The program is executed successfully
 
